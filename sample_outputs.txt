@@ -1,0 +1,28 @@
+
+===================================
+Snapshot: Japan 🇯🇵
+===================================
+Country: Japan 🇯🇵
+Capital: Tokyo
+Currency: JPY
+Population: 126,529,100
+
+===================================
+Snapshot: Germany 🇩🇪
+===================================
+Country: Germany 🇩🇪
+Capital: Berlin
+Currency: EUR
+Population: 82,905,782
+
+===================================
+Snapshot: Switzerland 🇨🇭
+===================================
+Country: Switzerland 🇨🇭
+Capital: Berne
+Currency: CHF
+Population: 8,513,227
+
+===================================
+❌ Error: Country 'Atlantis' not found. Check the spelling.
+===================================
